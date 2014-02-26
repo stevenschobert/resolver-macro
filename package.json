@@ -1,0 +1,23 @@
+{
+  "name": "resolver-macro",
+  "version": "0.1.0",
+  "description": "A sweet.js macro for creating a promise-resolving function.",
+  "main": "resolver.sjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/stevenschobert/resolver-macro.git"
+  },
+  "keywords": [
+    "sweet.js",
+    "promises"
+  ],
+  "author": "Steven Schobert <spschobert@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stevenschobert/resolver-macro/issues"
+  },
+  "homepage": "https://github.com/stevenschobert/resolver-macro"
+}
